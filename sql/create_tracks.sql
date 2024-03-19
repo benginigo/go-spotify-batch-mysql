@@ -1,0 +1,21 @@
+INSERT INTO spotify_tracks (
+    ArtistName,
+    TrackName,
+    TrackID,
+    Popularity,
+    Year,
+    Genre,
+    Danceability,
+    Energy,
+    KeyVal,
+    Loudness,
+    Mode,
+    Speechiness,
+    Acousticness,
+    Instrumentalness,
+    Liveness,
+    Valence,
+    Tempo,
+    DurationMS,
+    TimeSignature
+) VALUES
