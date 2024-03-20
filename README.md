@@ -1,4 +1,4 @@
-# Importing One Million Spotify Tracks into MySQL Using Goroutines in Go
+# Importing One Million Spotify Tracks into MySQL Using Goroutines in Go (approximately in 80 seconds.)
 
 ## Introduction:
 In this tutorial, we'll explore how to efficiently import a large dataset of Spotify tracks into a MySQL database using Go. We'll leverage goroutines to parallelize the data import process, allowing us to import one million tracks quickly and effectively.
